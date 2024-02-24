@@ -1,0 +1,6 @@
+[submodule "A12-Frontend"]
+	path = A12-Frontend
+	url = https://github.com/SPARCS-Service-Hackathon-2024/A12-Frontend.git
+[submodule "A12-API"]
+	path = A12-API
+	url = https://github.com/SPARCS-Service-Hackathon-2024/A12-API.git
